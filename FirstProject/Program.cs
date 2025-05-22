@@ -10,6 +10,7 @@ namespace FirstProject
         // Pass by Reference : Truyền vào địa chỉ 1 biến
         // 'ref' or 'out'
         // Alibaba
+        // FunnyCode
 
         static void Main(string[] args)
         {
