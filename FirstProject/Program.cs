@@ -1,5 +1,5 @@
 ﻿using FirstProject;
-
+// Tao la trum
 namespace FirstProject
 {
     internal class Program
