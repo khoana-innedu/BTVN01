@@ -2,6 +2,7 @@
 {
     internal class Program
     {
+        // Tinh nang dang ki
         static void Main(string[] args)
         {
             Student std = new("Nguyen Thi Me", 123);
